@@ -16,11 +16,16 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 - [Awesome Alibaba Cloud](https://github.com/ellerbrock/awesome-alibaba-cloud)
 
 
-### Support
+## Support
 
 You can get direct support for my Open Source projects on Alibaba Cloud here
 
 [![gitter](https://github.frapsoft.com/top/gitter-alibabacloudnews.jpg)](https://gitter.im/alibabacloudnews/Lobby)
+
+
+## Try Alibaba Cloud
+
+[Sign up](http://ow.ly/YKQe30hHgp8) today and get $300 valid for the first 60 days to try Alibaba Cloud.
 
 
 ## Contact
