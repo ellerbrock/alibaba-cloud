@@ -2,6 +2,13 @@
 
 # Alibaba Cloud [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
+## Build Status
+
+[![Deadlink Test](https://travis-ci.org/ellerbrock/alibaba-cloud.svg?branch=master)](https://travis-ci.org/ellerbrock/alibaba-cloud)
+
+**Info:** Green Build Status means there should be no Deadlinks in this List.<br>
+You can find the Testfiles on [travis-deadlink-scanner](https://github.com/ellerbrock/travis-deadlink-scanner)
+
 ## Links
 
 - [Awesome Alibaba Cloud](https://github.com/ellerbrock/awesome-alibaba-cloud)
