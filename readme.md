@@ -2,6 +2,8 @@
 
 # Alibaba Cloud [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
+[![Join the chat at https://gitter.im/alibabacloudnews/Lobby](https://badges.gitter.im/alibabacloudnews/Lobby.svg)](https://gitter.im/alibabacloudnews/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Work in Progress ...
 
 ## Contact
