@@ -15,6 +15,9 @@ You can find the Testfiles on [travis-deadlink-scanner](https://github.com/eller
 
 - [Awesome Alibaba Cloud](https://github.com/ellerbrock/awesome-alibaba-cloud)
 - [Infrastructure as Code Automatization](https://github.com/ellerbrock/alibaba-cloud-terraform-github-travis) for Alibaba Cloud with Github, Travis and Terraform
+- [Docker Hub aliyuncli](https://hub.docker.com/r/ellerbrock/alpine-aliyuncli/) - Automated Build on Docker Hub of [aliyun-cli](https://github.com/aliyun/aliyun-cli)
+- [aliyuncli](https://github.com/ellerbrock/aliyuncli-travis-docker) Automatization with Travis and Github running as Docker Container
+- [Terraform Backend Provider with Consul](https://github.com/ellerbrock/terraform-consul-backend) for Alibaba Cloud
 
 ## Support
 
